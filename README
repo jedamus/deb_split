@@ -1,0 +1,7 @@
+Das ist split für automake/autoconf.
+
+% tar xvfz am_split-1.2.tar.gz
+% cd am_split-1.2
+% ./configure
+% make
+% sudo make install
