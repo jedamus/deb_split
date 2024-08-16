@@ -1,6 +1,6 @@
-# am split
+# deb split
 
-This is split for automake
+This is split as a debian package
 
 ## Getting started
 
